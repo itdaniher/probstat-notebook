@@ -1,0 +1,11 @@
+			continuous	discrete
+cumulative	CDF			ECDF
+not			PDF			PMF
+
+
+CDF between 0,1
+
+PDF integrate to 1
+
+P(X<3) = CDF_x(3)
+P(X<3,Y<3) = CDF_x(3)*CDF_y(3) = CDF_z(3)
